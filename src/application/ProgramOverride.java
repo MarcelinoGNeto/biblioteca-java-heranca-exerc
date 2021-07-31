@@ -4,7 +4,7 @@ import entities.Account;
 import entities.BusinessAccount;
 import entities.SavingsAccount;
 
-public class Program {
+public class ProgramOverride {
 
 	public static void main(String[] args) {
 
